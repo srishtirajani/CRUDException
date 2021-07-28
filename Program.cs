@@ -38,7 +38,8 @@ namespace CRUDException
             conn.Close();
         }
     }
-    public void viagit(){
+    public void funct(){
+        console.WriteLine("Hello");
     }
 
 }
