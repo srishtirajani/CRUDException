@@ -34,9 +34,12 @@ namespace CRUDException
             {
                 Console.WriteLine("{0}", e.Message);
             }
-            
             conn.Close();
         }
     }
-
+public void func()
+            {
+                Console.WriteLine("Hello");
+                Console.WriteLine("check");
+            }
 }
