@@ -34,9 +34,11 @@ namespace CRUDException
             {
                 Console.WriteLine("{0}", e.Message);
             }
-            
+   
             conn.Close();
         }
+    }
+    public void viagit(){
     }
 
 }
