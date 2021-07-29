@@ -38,7 +38,5 @@ namespace CRUDException
             conn.Close();
         }
     }
-    public void viagit(){
-    }
 
 }
